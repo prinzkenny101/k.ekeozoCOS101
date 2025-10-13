@@ -1,4 +1,5 @@
 fn main() {
+	
 	let toshiba_laptop:f64 = 450_000.00 * 2.00;
 	let mac_laptop:f64 = 1_500_000.00 * 1.00;
 	let hp_laptop:f64 = 750_000.00 * 3.00;
