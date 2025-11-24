@@ -1,0 +1,3 @@
+Welcome to COS101
+Hello Class
+This is the appendage to the document.
