@@ -8,5 +8,5 @@ fn main() {
     mountain_heights.2 = "Lhotse";
     mountain_heights.3 = 8516;
 
-    println!("Changed tuple = {:?}", mountain_heights)
+    println!("Changed tuple = {:?}", mountain_heights);
 }

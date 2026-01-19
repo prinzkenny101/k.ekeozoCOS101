@@ -81,7 +81,7 @@ fn main() {
        4 => {
             println!("Enter side length:");
             let side = read_input().trim().parse::<f64>().unwrap();
-
+=
             let area = area_cube(side);
             println!("Area of Cube = {}", area); 
         }

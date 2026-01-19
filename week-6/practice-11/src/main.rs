@@ -1,9 +1,9 @@
 fn main() {
-    let a:i32 = 2; // Bit presentation 10
+    let a:string = "Kennedy"; // Bit presentation 10
     let b:i32 = 3; // Bit presentation 11
 
     let mut result:i32;
-
+7
     result = a & b;
     println!("(a & b) => {}", result);
 
@@ -21,4 +21,4 @@ fn main() {
 
     result = a >> b;
     println!("(a & b) => {}", result);
-}
+}0

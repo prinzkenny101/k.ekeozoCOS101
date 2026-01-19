@@ -16,7 +16,7 @@ fn main() {
 
     res = A<=B ;
     println!("A lesser than or equal to B: {}", res); 
-
+    
     res = A==B ;
     println!("A is equal to B: {}", res);
 
